@@ -8,7 +8,7 @@ This demo is fully functional example. You can test ANE functions without any li
 in your application you can purchase any number of licenses each for up to 3 applications and without any limitations in time! 
 License server can be found here [http://kavolorn.ru/pro-native-extensions](http://kavolorn.ru/pro-native-extensions).
 
-ANE supports iPhone-ARM and iPhone-x86 including x64 bit platforms introduced in Adobe AIR SDK 16.
+ANE supports Android-ARM, Android-x86, iPhone-ARM and iPhone-x86 including x64 bit platforms introduced in Adobe AIR SDK 16.
 
 Extension is build with 16.0.0.259 Adobe AIR SDK and iOS 8.1 SDK.
 
